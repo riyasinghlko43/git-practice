@@ -1,1 +1,5 @@
+# git-practice
+
 Hello, Git!
+
+I am learning Git and GitHub.
